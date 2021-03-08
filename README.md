@@ -51,6 +51,7 @@ Please take a moment to complete the class survey at: <https://www.surveymonkey.
 - [GitHub Help Documentation](https://help.github.com/)
 - [GitHub Enterprise Documentation](https://help.github.com/enterprise/)
 - [Enterprise Support](https://enterprise.github.com/support)
+- [w3c schools](https://www.w3schools.com/whatis/whatis_github.asp)
 
 #### Git and IDEs Webcasts
 
