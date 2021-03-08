@@ -1,0 +1,4 @@
+# bash
+# I'm creating a new fancy file with not lot of logic..
+def __main__():
+   return
